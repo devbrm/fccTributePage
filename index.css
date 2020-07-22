@@ -202,11 +202,18 @@ footer h2 {
 }
 
 .quote {
+  text-align: center;
   width: 100vw;
   background: rgb(179 179 179 / 17%);
+  font-size: 2rem;
   padding: 3rem;
+  text-shadow: none;
+  border-left: 5px solid rgb(0, 140, 255) ;
 }
 
+.quote sub {
+  font-size: 1rem;
+}
 
 
 
